@@ -1,6 +1,6 @@
 # Tic Tac Toe Project
 
-#### _This is a site made using React.js and associated technologies (HTML, CSS, Js, Required NPM packages)
+#### This is a site made using React.js and associated technologies (HTML, CSS, Js, Required NPM packages)
 
 #### _Drew Cross_
 
@@ -14,14 +14,13 @@
 2. [Known Bugs](#bugs)
 3. [Contact Details](#contact)
 4. [Technologies Used](#tech)
-5. [License](#license)
 
 ## Setup/Installation Requirements <a name="setup/install"></a>
 
-- _Download the project zip to your computer or clone the repository
-- _With the project extracted open a terminal and navigate to the project directory
-- _Run npm install to install associated npm packages
-- _Run npm start dev to start a development server on local host 5173. Visit the port in a browser to see the app.
+- Download the project zip to your computer or clone the repository
+- With the project extracted open a terminal and navigate to the project directory
+- Run npm install to install associated npm packages
+- Run npm start dev to start a development server on local host 5173. Visit the port in a browser to see the app.
 
 ## Known Bugs <a name="bugs"></a>
 
