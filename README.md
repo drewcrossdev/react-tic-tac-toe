@@ -1,6 +1,6 @@
 # Tic Tac Toe Project
 
-#### This is a site made using React.js and associated technologies (HTML, CSS, Js, Required NPM packages)
+#### This is a site made using React.js and associated technologies (HTML, CSS, JavaScript, Required NPM packages)
 
 #### _Drew Cross_
 
